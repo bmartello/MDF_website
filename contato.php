@@ -128,7 +128,7 @@ if (isset($_POST['BTEnvia'])){
 			                <div id="textarea"><p><textarea class="contact" rows="4" cols="50" name="mensagem" value = " ">
 			                </textarea></p></div>
 			               	<br>	                
-			                <p><input class="submit" type="submit" name="BTEnvia" value="Enviar" /></p>
+			                <p><input class="submit" type="submit" name="BTEnvia" value="Enviar." /></p>
 
 			              </div>
 			          	</form>
